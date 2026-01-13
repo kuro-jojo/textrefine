@@ -2,6 +2,8 @@
 
 A modern Angular frontend application that provides a user-friendly interface for text analysis tools.
 
+Score engine here : https://github.com/kuro-jojo/textrefine-score-engine
+
 ## Features
 
 - Interactive text editor interface
